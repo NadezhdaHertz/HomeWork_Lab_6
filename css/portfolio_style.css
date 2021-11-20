@@ -62,6 +62,7 @@ li {
 
 .work_blackout:hover {
     opacity: 60%;
+    transition: opacity 0.3s;
 }
 
 .block_works {
